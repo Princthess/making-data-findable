@@ -18,9 +18,9 @@ A recurring routine makes traceable datasets visible locally and helps identify 
 
 ### How?
 
-- Define a minimal set of local criteria for what you will monitor and follow up (start small and adjust over time)
-- Pull research data metadata (via soma data aggregator tool) and curate what meets the threshold.
-- Log the most common reasons others don’t meet it and address them over time.
+* Define a minimal set of local criteria for what you will monitor and follow up (start small and adjust over time)
+* Pull research data metadata (via soma data aggregator tool) and curate what meets the threshold.
+* Log the most common reasons others don’t meet it and address them over time.
 
 ## Make data publications visible and recognised in academic assessment
 
